@@ -1,6 +1,5 @@
 hello guys,
-      HungrySnake is a classical single player game where player controls the snake on bordered plane
-and attempts to eat objects by running into them with the head of the snake. Each object eaten makes the snake longer, so making the game progressively more difficult.
+      HungrySnake is a classical single player game where player controls the snake on bordered plane and attempts to eat objects by running into them with the head of the snake. Each object eaten makes the snake longer, so making the game progressively more difficult.
 
 Technologies Used – Python, Pygame
 
